@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.log
+
+# Environment variables
+.env
+.env.local
+
+# Build artifacts
+/dist
+/build
+
+# Image cache (for the summary.png file)
+/cache
